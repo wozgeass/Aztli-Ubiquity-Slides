@@ -1,0 +1,137 @@
+# Gujarati translation for ubiquity-slideshow-ubuntu-gnome
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu-gnome package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-03-27 06:21+0000\n"
+"Last-Translator: Purvesh R. Shah. <purveshrshah@gmail.com>\n"
+"Language-Team: Gujarati <gu@li.org>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
+#: slideshows/ubuntu-gnome/slides/01_overview.html:1
+#: slideshows/ubuntu-gnome/slides/02_everything.html:1
+#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
+#: slideshows/ubuntu-gnome/slides/04_web.html:1
+#: slideshows/ubuntu-gnome/slides/05_documents.html:1
+#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
+msgid "Ubuntu GNOME 12.10"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
+msgid ""
+"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
+"all your Ubuntu questions. There’s a good chance your question will have "
+"been answered already and, if not, you’ll find thousands of volunteers eager "
+"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
+"support\">ubuntu.com/support</a>."
+msgstr ""
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "કસ્ટમાઇઝ ઉબુન્ટુ"
+
+#~ msgid "Customization options"
+#~ msgstr "વૈવિધ્યપણું વિકલ્પો"
+
+#~ msgid "Appearance"
+#~ msgstr "દેખાવ"
+
+#~ msgid "Assistive technologies"
+#~ msgstr "સહાયક તકનીકો"
+
+#~ msgid "Language support"
+#~ msgstr "ભાષા આધાર"
+
+#~ msgid "Included software"
+#~ msgstr "સમાવિષ્ટ સોફ્ટવેર"
+
+#~ msgid "Firefox web browser"
+#~ msgstr "ફાયરફોક્સ વેબ બ્રાઉઝર"
+
+#~ msgid "Supported software"
+#~ msgstr "આધારભૂત  સોફ્ટવેર"
+
+#~ msgid "Flash"
+#~ msgstr "ફ્લેશ"
+
+#~ msgid "Chromium"
+#~ msgstr "ક્રોમિઅમ"
+
+#~ msgid "Any questions?"
+#~ msgstr "કોઈપણ પ્રશ્નો?"
+
+#~ msgid "Let’s talk Ubuntu"
+#~ msgstr "ચાલો ઉબુન્ટુ ઉપર વાત કરિએ"
+
+#~ msgid "I'm installing #Ubuntu!"
+#~ msgstr "હું #ઉબુન્ટુ સ્થાપિત કરી રર્હ્યો છુ!"
+
+#~ msgid "Your own personal cloud"
+#~ msgstr "તમારા પોતાનું વ્યક્તિગત ક્લાઉડ"
+
+#~ msgid "Take your music with you"
+#~ msgstr "તમારુ સંગીત તમારી સાથે લઇલો"
+
+#~ msgid "Rhythmbox Music Player"
+#~ msgstr "Rhythmbox સંગીત પ્લેયર"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "ઉબુન્ટુ વન સંગીત સ્ટોર"
+
+#~ msgid "LibreOffice Writer"
+#~ msgstr "LibreOffice Writer"
+
+#~ msgid "LibreOffice Calc"
+#~ msgstr "LibreOffice Calc"
+
+#~ msgid "LibreOffice Impress"
+#~ msgstr "LibreOffice Impress"
+
+#~ msgid "Have fun with your photos"
+#~ msgstr "તમારા ફોટા  સાથે મનોરંજન કરો"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Shotwell ફોટો  વ્યવસ્થાપક"
+
+#~ msgid "GIMP Image Editor"
+#~ msgstr "GIMP છબી  સંપાદક"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Pitivi વિડીયો સંપાદક"
+
+#~ msgid "Stay connected"
+#~ msgstr "સંયોજિત રહો"
+
+#~ msgid "Supported services"
+#~ msgstr "આધારભૂત સેવાઓ"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Identi.ca"
+#~ msgstr "Identi.ca"
+
+#~ msgid "Find even more software"
+#~ msgstr "હજી વધુ સોફ્ટવેર  શોધો"
+
+#~ msgid "Browse the web"
+#~ msgstr "વેબ બ્રાઉઝ કરો"
+
+#~ msgid "Welcome to Ubuntu 12.04 LTS"
+#~ msgstr "ઉબુન્ટુ 12.04 LTS સ્વાગત છે"

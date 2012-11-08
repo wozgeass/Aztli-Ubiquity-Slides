@@ -1,0 +1,143 @@
+# Tamil translation for ubiquity-slideshow-ubuntu-gnome
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu-gnome package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-03-14 12:26+0000\n"
+"Last-Translator: Barneedhar <barneedhar@gmail.com>\n"
+"Language-Team: Tamil <ta@li.org>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
+#: slideshows/ubuntu-gnome/slides/01_overview.html:1
+#: slideshows/ubuntu-gnome/slides/02_everything.html:1
+#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
+#: slideshows/ubuntu-gnome/slides/04_web.html:1
+#: slideshows/ubuntu-gnome/slides/05_documents.html:1
+#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
+msgid "Ubuntu GNOME 12.10"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
+msgid ""
+"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
+"all your Ubuntu questions. There’s a good chance your question will have "
+"been answered already and, if not, you’ll find thousands of volunteers eager "
+"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
+"support\">ubuntu.com/support</a>."
+msgstr ""
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "விரும்பியபடி Ubuntuவை மாற்ற"
+
+#~ msgid "Customization options"
+#~ msgstr "விருப்பப்படி மாற்ற"
+
+#~ msgid "Appearance"
+#~ msgstr "தோற்றம்"
+
+#~ msgid "Assistive technologies"
+#~ msgstr "மாற்றுத்திறனாளிக்கு உதவும் தொழில்நூட்பங்கள்"
+
+#~ msgid "Language support"
+#~ msgstr "ஆதரிப்பு மொழிகள்"
+
+#~ msgid "Included software"
+#~ msgstr "இணைக்கப்பட்ட மென்பொருள்கள்"
+
+#~ msgid "Firefox web browser"
+#~ msgstr "பயர்பாக்ஸ் இணைய உலாவி"
+
+#~ msgid "Supported software"
+#~ msgstr "மேலும் நீங்கள் விரும்பினால்"
+
+#~ msgid "Flash"
+#~ msgstr "ஃப்ளாஷ்"
+
+#~ msgid "Chromium"
+#~ msgstr "குரோமியம்"
+
+#~ msgid "Any questions?"
+#~ msgstr "ஏதேனும் கேள்விகள் உள்ளனவா?"
+
+#~ msgid "Let’s talk Ubuntu"
+#~ msgstr "உபுண்டுவைப் பற்றிப் பேசுவோம்"
+
+#~ msgid "Your own personal cloud"
+#~ msgstr "உங்கள் தனிப்பட்ட மேகத் தொழில்நுட்பம்"
+
+#~ msgid "Take your music with you"
+#~ msgstr "உங்கள் பாடல்களைத் தேர்ந்தெடுங்கள்"
+
+#~ msgid "Rhythmbox Music Player"
+#~ msgstr "ரிதம்பாக்ஸ் இசை இயக்கி"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Ubuntu One இசை அங்காடி"
+
+#~ msgid "Write and present for free"
+#~ msgstr "இலவசமாக எழுது மற்றும் படை"
+
+#~ msgid "Have fun with your photos"
+#~ msgstr "புகைப்படங்களுடன் புகுந்து விளையாட"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "ஷாட்வெல் புகைப்படத் தொகுப்பி"
+
+#~ msgid "GIMP Image Editor"
+#~ msgstr "ஜிம்ப் புகைப்படத் திருத்தி"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "பிட்வி காணொளி தொகுப்பி"
+
+#~ msgid "Stay connected"
+#~ msgstr "எப்பொழுதும் இணைந்திருங்கள்"
+
+#~ msgid "Supported services"
+#~ msgstr "ஆதரவு அளிக்கப்படும் சேவைகள்"
+
+#~ msgid "Twitter"
+#~ msgstr "ட்விட்டர்"
+
+#~ msgid "Facebook"
+#~ msgstr "பேஸ்புக்"
+
+#~ msgid "Identi.ca"
+#~ msgstr "Identi.ca"
+
+#~ msgid "Find even more software"
+#~ msgstr "மேலும் தேவையான மென்பொருள்கள்"
+
+#~ msgid "Browse the web"
+#~ msgstr "இணையத்தில் உலா வர"
+
+#~ msgid ""
+#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
+#~ "account gives you 5GB of cloud storage, so you can store and sync your "
+#~ "files and photos across devices and access them wherever you are in the "
+#~ "world. Easily share them with friends, family and colleagues. Take a "
+#~ "photo on your mobile phone and immediately see it on your desktop, or add "
+#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
+#~ "for mobile to enjoy your music on the move."
+#~ msgstr ""
+#~ "சிறந்த <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
+#~ "கணக்கீடு 5 GB இலவச சோமிப்பு வசதியை அளிக்கிறது. உங்கள் ஆவணங்கள்,புகைப்படங்களை மற்றும் "
+#~ "எந்தவெரு கோப்புகளையும் பகிர்ந்திட உதவுகிறது. உங்கள் கைப்பேசியில் எடுக்கப்பட்ட "
+#~ "புகைப்படத்தை கணிணியில் பார்க்கவும் அல்லது கணிணியில் உள்ள இசைக்கோப்பை கைப்பேசியில் கேட்க "
+#~ "உதவுகிறது."
+
+#~ msgid "Welcome to Ubuntu 12.04 LTS"
+#~ msgstr "உபுண்டு 12.04 எல்.டி.எஸ்.ஸிற்கு உங்களை வரவேற்கிறோம்"

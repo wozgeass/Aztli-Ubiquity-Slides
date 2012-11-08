@@ -1,0 +1,470 @@
+# Japanese translation for ubiquity-slideshow-ubuntu
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-10-07 15:47+0000\n"
+"Last-Translator: Shushi Kurose <md81bird@hitaki.net>\n"
+"Language-Team: Japanese <ja@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-10-09 17:48+0000\n"
+"X-Generator: Launchpad (build 16112)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/00_welcome.html:1
+msgid "Welcome to Lubuntu 12.10"
+msgstr "Lubuntu 12.10 にようこそ"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/00_welcome.html:8
+msgid ""
+"Lubuntu is designed to be lightweight, easy and fast. Let's have a closer "
+"look!"
+msgstr ""
+"Lubuntuは軽量、簡単、高速に使えるよう設計されています。もっと詳しく見てみま"
+"しょう!"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/01_lxde.html:1
+msgid "Built on a solid foundation"
+msgstr "強固な土台の上に成り立っています"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/01_lxde.html:8
+msgid ""
+"Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing and "
+"energy-saving desktop environment. LXDE has been proven to work well with "
+"both old and new computers, ensuring you a smooth desktop experience."
+msgstr ""
+"Lubuntuは、高速に動作して省エネルギーなデスクトップ環境である<em>LXDEデスク"
+"トップ環境</em>をベースとしています。LXDEは古いコンピューターでも新しいコン"
+"ピューターのどちらでも問題なく動作し、スムースなデスクトップ体験を確保してい"
+"ることが証明されています。"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/02_browser.html:1
+msgid "Browse the web"
+msgstr "ウェブの閲覧"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/02_browser.html:8
+msgid ""
+"Browse the web with <em>Chromium</em>, the open-source version of Chrome, a "
+"web browser developed by Google. It's safe, stable, fast and even supports "
+"your favorite addons/extensions."
+msgstr ""
+"Googleの開発したウェブブラウザーChromeのオープンソース版である<em>Chromium</"
+"em>で、ウェブを閲覧しましょう。安全で安定して高速に動作し、お気に入りのアドオ"
+"ン/拡張機能をサポートしています。"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/02_browser.html:12
+msgid ""
+"Did you know that Lubuntu has it's own Chrome extension available for free? "
+"Visit the <a href=\"https://chrome.google.com/webstore/detail/"
+"hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Store</a> for more information."
+msgstr ""
+"Lubuntuでは、Chromeの拡張機能がフリーで利用できることを知っていますか？ 詳細"
+"は <a href=\"https://chrome.google.com/webstore/detail/"
+"hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Store</a> を参照してください。"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/lubuntu/slides/02_browser.html:16
+#: slideshows/lubuntu/slides/03_office.html:12
+#: slideshows/lubuntu/slides/04_media.html:18
+#: slideshows/lubuntu/slides/05_social.html:12
+msgid "Included software"
+msgstr "含まれるソフトウェア"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/02_browser.html:20
+msgid "Chromium"
+msgstr "Chromium"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/lubuntu/slides/02_browser.html:23
+#: slideshows/lubuntu/slides/03_office.html:23
+#: slideshows/lubuntu/slides/04_media.html:32
+#: slideshows/lubuntu/slides/05_social.html:19
+msgid "Supported software"
+msgstr "サポートされるソフトウェア"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/02_browser.html:27
+msgid "Flash"
+msgstr "Flash"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/02_browser.html:32
+msgid "Firefox"
+msgstr "Firefox"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/03_office.html:1
+msgid "Create and edit documents"
+msgstr "ドキュメントの作成と編集"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/03_office.html:8
+msgid ""
+"Use <em>Abiword</em> and <em>Gnumeric</em>, lightweight alternatives for "
+"LibreOffice, to create documents and spreadsheets. Both applications provide "
+"support for industry standard document types and will allow you to "
+"collaborate on documents written by colleagues, friends or family."
+msgstr ""
+"文書やスプレッドシートを作成する場合は、LibreOfficeの軽量な代替ソフトである"
+"<em>Abiword</em>ならびに<em>Gnumeric</em>を使ってみてください。どちらのアプリ"
+"ケーションも業界標準の文書タイプをサポートしており、同僚、友達、家族の書いた"
+"文書で共同作業をすることができます。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/03_office.html:16
+msgid "Abiword"
+msgstr "Abiword"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/03_office.html:20
+msgid "Gnumeric"
+msgstr "Gnumeric"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/03_office.html:27
+msgid "LibreOffice"
+msgstr "LibreOffice"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/04_media.html:1
+msgid "Enjoy your music and videos"
+msgstr "音楽や動画を楽しむ"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/04_media.html:10
+msgid ""
+"Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
+"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
+"video player powered by mplayer with support for many formats."
+msgstr ""
+"シンプルながらパワフルな音楽プレイヤーである<em>Audacious</em>で、お気に入り"
+"の音楽を聞きましょう。 また、多くのフォーマットに対応したmplayerによる高速な"
+"動画プレイヤーである<em>Gnome-Mplayer</em>で、色々な動画を楽しみましょう。"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/04_media.html:14
+msgid ""
+"You can also obtain additional codec support by installing the <em>lubuntu-"
+"restricted-extras</em> package."
+msgstr ""
+"<em>lubuntu-restricted-extras</em>パッケージをインストールすることで、追加"
+"コーデックもサポートされるようになります。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:23
+msgid "Audacious"
+msgstr "Audacious"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:28
+msgid "Gnome-Mplayer"
+msgstr "Gnome-Mplayer"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:36
+msgid "Exaile"
+msgstr "Exaile"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:41
+msgid "VLC media player"
+msgstr "VLC メディアプレイヤー"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/05_social.html:1
+msgid "Chat with your friends"
+msgstr "友だちとチャットする"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/05_social.html:8
+msgid ""
+"With <em>Pidgin</em>, you will be able to keep in touch with all your "
+"friends. It supports a wide range of chat services, such as Windows Live, "
+"Google Talk and Facebook."
+msgstr ""
+"<em>Pidgin</em>を使うと、すべての友達と連絡を取り合うことができるようになりま"
+"す。Windows Live、Google Talk、Facebookといった、広範囲のチャットサービスをサ"
+"ポートしています。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/05_social.html:16
+msgid "Pidgin"
+msgstr "Pidgin"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/05_social.html:23
+msgid "Skype"
+msgstr "Skype"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/05_social.html:28
+msgid "Empathy"
+msgstr "Empathy"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/06_lsc.html:1
+msgid "Download software with ease"
+msgstr "簡単にソフトウェアをダウンロードする"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/06_lsc.html:8
+msgid ""
+"With Lubuntu, you have access to the whole Ubuntu repository and all the "
+"software included. This means that thousands of new applications are ready "
+"for your computer, free of charge. Use the <em>Lubuntu Software Center</em> "
+"and explore categories such as games, science and education, or search for "
+"your favorite software."
+msgstr ""
+"Lubuntuでは、Ubuntuリポジトリ全体ならびに含まれているすべてのソフトウェアにア"
+"クセスできます。これは、多くの新しいアプリケーションが無料で用意されていると"
+"いうことを示しています。<em>Lubuntuソフトウェアセンター</em>を利用して、ゲー"
+"ム、科学、教育といったカテゴリを見て回ったり、好きなソフトウェアを検索してみ"
+"てください。"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/07_help.html:1
+msgid "Need help?"
+msgstr "助けが必要ですか?"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/07_help.html:8
+msgid ""
+"One of the biggest advantages with Lubuntu is the wonderful community that "
+"comes with it. Other users will gladly help you out if you encounter "
+"problems. There are many different ways to get help, the easiest way is to "
+"visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
+"the information you need."
+msgstr ""
+"Lubuntuの大きな利点の一つとして、Lubuntuとともに素晴らしいコミュニティがある"
+"ことでしょう。助けを得るには異なる色々な方法があり、最も簡単な方法は、必要な"
+"情報すべてを集めているLubuntuの<a href=\"http://lubuntu.net/\">ウェブサイト</"
+"a>を訪問することです。"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/08_thanks.html:1
+msgid "Thank you for choosing Lubuntu"
+msgstr "Lubuntuを選んでいただきありがとうございます"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/08_thanks.html:8
+msgid ""
+"The installation will finish soon. We hope you will enjoy Lubuntu and all "
+"the freedom that comes with it.  If you wish to help us improve Lubuntu, "
+"either by giving us feedback or by getting involved in the project, please "
+"visit our <a href=\"http://lubuntu.net/\">website</a>."
+msgstr ""
+"インストールはまもなく完了します。Lubuntuならびに、共にあるすべての自由を楽し"
+"んでいただければと願っています。Lubuntuの改善に協力していただける場合は、"
+"Lubuntuの<a href=\"http://lubuntu.net/\">ウェブサイト</a>を訪れて、フィード"
+"バックを行ったりプロジェクトに参加したりしてみてください。"
+
+#~ msgid ""
+#~ "More information on the <a href=\"http://sites.google.com/a/chromium.org/"
+#~ "dev/Home\">Chromium website</a>."
+#~ msgstr ""
+#~ "詳しい情報は <a href=\"http://sites.google.com/a/chromium.org/dev/Home"
+#~ "\">Chromium ウェブサイト</a> にあります。"
+
+#~ msgid "Videos with gnome-mplayer"
+#~ msgstr "gnome-mplayer による動画再生"
+
+#~ msgid ""
+#~ "Lubuntu is shipped with <em>Chromium</em>, the open-source version of "
+#~ "Chrome, a browser developed by Google."
+#~ msgstr ""
+#~ "Lubuntu には、Google によって開発されたブラウザ Chrome のオープンソース版"
+#~ "である <em>Chromium</em> が同梱されています。"
+
+#~ msgid "Abiword and Gnumeric"
+#~ msgstr "Abiword と Gnumeric"
+
+#~ msgid "On the IRC chan #lubuntu on irc.freenode.net."
+#~ msgstr "irc.freenode.net の IRC チャンネル #lubuntu で。"
+
+#~ msgid ""
+#~ "Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
+#~ "page</a>."
+#~ msgstr ""
+#~ "<a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki ページ</a> を参"
+#~ "照してください。"
+
+#~ msgid ""
+#~ "You can also obtain additional non-free support by installing the lubuntu-"
+#~ "restricted-extras package."
+#~ msgstr ""
+#~ "lubuntu-restricted-extras パッケージをインストールすると、追加で non-free "
+#~ "のものもサポートされます。"
+
+#~ msgid "Based on LXDE Desktop"
+#~ msgstr "LXDE デスクトップをベースにしています"
+
+#~ msgid "The installation will finish soon. We hope you enjoy Lubuntu."
+#~ msgstr "インストールはまもなく終了します。Lubuntu をお楽しみください。"
+
+#~ msgid ""
+#~ "More information on <a href=\"http://pidgin.im/\">Pidgin website</a>."
+#~ msgstr ""
+#~ "詳しい情報は <a href=\"http://pidgin.im/\">Pidgin ウェブサイト</a> にあり"
+#~ "ます。"
+
+#~ msgid ""
+#~ "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
+#~ msgstr ""
+#~ "詳しい情報は <a href=\"http://lxde.org\">LXDE ウェブサイト</a> にありま"
+#~ "す。"
+
+#~ msgid "Chatting with your friends"
+#~ msgstr "友達とのチャット"
+
+#~ msgid "With <em>Pidgin</em>, you will be able to chat with your friends."
+#~ msgstr "<em>Pidgin</em> を使うと、友達とチャットすることができます。"
+
+#~ msgid ""
+#~ "More information on <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
+#~ "website</a>."
+#~ msgstr ""
+#~ "詳しい情報は <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed ウェブサイ"
+#~ "ト</a> にあります。"
+
+#~ msgid "Lubuntu provides a mail client named <em>Sylpheed</em>."
+#~ msgstr ""
+#~ "Lubuntu には、<em>Sylpheed</em> という名前のメールクライアントがあります。"
+
+#~ msgid "Checking your emails"
+#~ msgstr "メールのチェック"
+
+#~ msgid "Welcome"
+#~ msgstr "ようこそ"
+
+#~ msgid "You can search for software by clicking on the Search button."
+#~ msgstr "検索ボタンをクリックしてソフトウェアを検索することができます。"
+
+#~ msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
+#~ msgstr ""
+#~ "Lubuntu は「簡単に扱える」ことを目指しました。いろいろなものに触ってみてく"
+#~ "ださい!"
+
+#~ msgid "It's fast with a clean user interface."
+#~ msgstr "軽快でわかりやすいユーザインターフェースです。"
+
+#~ msgid "Internet with Chromium"
+#~ msgstr "Chromium でのインターネット体験"
+
+#~ msgid "Getting Help"
+#~ msgstr "助けを得るには"
+
+#~ msgid ""
+#~ "Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing "
+#~ "and energy-saving desktop environment."
+#~ msgstr ""
+#~ "Lubuntu は <em>LXDE デスクトップ環境</em> をベースとしており、軽快に動作"
+#~ "し、省エネルギーなデスクトップ環境です。"
+
+#~ msgid ""
+#~ "With Lubuntu, you have access to the whole Ubuntu repository and all the "
+#~ "software included."
+#~ msgstr ""
+#~ "Lubuntu からは、Ubuntu リポジトリ全体や、含まれるすべてのソフトウェアにア"
+#~ "クセスすることができます。"
+
+#~ msgid ""
+#~ "On the mailing list, subscribe on <a href=\"https://launchpad.net/"
+#~ "~lubuntu-desktop\">the page</a>."
+#~ msgstr ""
+#~ "メーリングリストは、<a href=\"https://launchpad.net/~lubuntu-desktop\">こ"
+#~ "のページ</a> で登録してください。"
+
+#~ msgid ""
+#~ "It will allow you to check your email messages, and read them even if you "
+#~ "are offline."
+#~ msgstr "メールをチェックしたり、オフラインでも本文を読むことができます。"
+
+#~ msgid "If you need help, you can contact us:"
+#~ msgstr "ヘルプが必要な場合は連絡してください:"
+
+#~ msgid ""
+#~ "Go to the menu, and click on Pidgin icon to connect to many services, "
+#~ "such as Jabber, Google Talk or Windows Live."
+#~ msgstr ""
+#~ "メニューに行き、JabbarやGoogleチャット、Windowsライブのような様々なサービ"
+#~ "スに接続するためPidginアイコンをクリックします。"
+
+#~ msgid "Sylpheed"
+#~ msgstr "Sylpheed"
+
+#~ msgid "Install software"
+#~ msgstr "ソフトウェアのインストール"
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "Tomboy メモ"
+
+#~ msgid ""
+#~ "Use <em>Abiword and Gnumeric</em>, lightweight alternatives for "
+#~ "LibreOffice, and create letters, spreadsheets, etc. Information on <a "
+#~ "href=\"http://www.abisource.com/\">Abiword</a> and <a href=\"http://"
+#~ "projects.gnome.org/gnumeric/\">Gnumeric</a> websites."
+#~ msgstr ""
+#~ "文書の作成や表計算には、LibreOfficeの軽量な互換ソフトウェアである"
+#~ "<em>AbiwordとGnumeric</em>が使えます。詳しいことは、<a href=\"http://www."
+#~ "abisource.com/\">Abiword</a>や<a href=\"http://projects.gnome.org/"
+#~ "gnumeric/\">Gnumeric</a>といったウェブサイトを参照してください。"
+
+#~ msgid "Gnome-Mplayer videos player"
+#~ msgstr "Gnome-Mplayer動画プレイヤー"
+
+#~ msgid "VLC videos player"
+#~ msgstr "VLC動画プレイヤー"
+
+#~ msgid ""
+#~ "Watch videos with <em>gnome-mplayer</em>, a fast video player using "
+#~ "mplayer. Support for many formats is included."
+#~ msgstr ""
+#~ "動画の視聴には<em>gnome-mplayer</em>が使えます。これは、mplayerを使った高"
+#~ "速な動画プレイヤーで、数多くのフォーマットに対応しています。"
+
+#~ msgid "Xpad Notes"
+#~ msgstr "Xpad Notes"
+
+#~ msgid ""
+#~ "More information on <a href=\"http://sites.google.com/site/kdekorte2/"
+#~ "gnomemplayer\">gnome-mplayer website</a>."
+#~ msgstr ""
+#~ "さらに詳しい情報は <a href=\"http://sites.google.com/site/kdekorte2/"
+#~ "gnomemplayer\">gnome-mplayer ウェブサイト</a> にあります。"
+
+#~ msgid "Thank you for choosing Lubuntu 12.04."
+#~ msgstr "Lubuntu 12.04 を選んでいただきありがとうございます。"
+
+#~ msgid "Chromium web browser"
+#~ msgstr "Chromium ウェブブラウザ"
+
+#~ msgid "Firefox web browser"
+#~ msgstr "Firefox ウェブブラウザ"
+
+#~ msgid "Thunderbird mail client"
+#~ msgstr "Thunderbird メールクライアント"
+
+#~ msgid ""
+#~ "Go to the menu, click on System Tools and <em>Synaptic Software Manager</"
+#~ "em>."
+#~ msgstr ""
+#~ "メニューのシステムツールから、<em>Synaptic パッケージマネージャ</em>を選択"
+#~ "してください。"
+
+#~ msgid "Empathy IM"
+#~ msgstr "Empathy インターネットメッセンジャー"

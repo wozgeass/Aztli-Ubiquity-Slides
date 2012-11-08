@@ -1,0 +1,251 @@
+# Belarusian translation for ubiquity-slideshow-ubuntu-gnome
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu-gnome package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-03-19 21:57+0000\n"
+"Last-Translator: Soltan Dzmitry <Unknown>\n"
+"Language-Team: Belarusian <be@li.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
+#: slideshows/ubuntu-gnome/slides/01_overview.html:1
+#: slideshows/ubuntu-gnome/slides/02_everything.html:1
+#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
+#: slideshows/ubuntu-gnome/slides/04_web.html:1
+#: slideshows/ubuntu-gnome/slides/05_documents.html:1
+#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
+msgid "Ubuntu GNOME 12.10"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
+#, fuzzy
+msgid ""
+"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
+"all your Ubuntu questions. There’s a good chance your question will have "
+"been answered already and, if not, you’ll find thousands of volunteers eager "
+"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
+"support\">ubuntu.com/support</a>."
+msgstr ""
+"Скарыстайцеся сэрвісам <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, "
+"лепшым сэрвісам, дзе Вы атрымаеце адказы на ўсе пытанні аб Ubuntu. На "
+"большасць пытанняў ўжо маюцца адказы, а тысячы людзей заўсёды гатовыя "
+"дапамагчы Вам з Вашай праблемай у самы кароткі тэрмін. Калі ж Вам патрэбна "
+"прафесійная кансультацыя, Вы можаце скарыстацца камерцыйнай падтрымкай у "
+"раздзеле <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "Наладзіць Ubuntu"
+
+#~ msgid ""
+#~ "At the heart of Ubuntu’s philosophy is a belief that computing is for "
+#~ "everyone. With advanced accessibility tools and options like your "
+#~ "preferred color scheme, text size, and language, Ubuntu is for anyone. "
+#~ "Whoever you are, and wherever you are."
+#~ msgstr ""
+#~ "У аснове філасофіі Ubuntu ляжыць вера ў тое, што кампутар павінен быць "
+#~ "даступны кожнаму чалавеку. З дапамогай перадавых і гнуткіх інструментаў "
+#~ "Вы можаце наладзіць Ubuntu: памер шрыфта, колер, мова і шмат чаго іншага. "
+#~ "Менавіта таму Ubuntu пасуе Вам, кім бы Вы ні былі і дзе бы Вы не "
+#~ "знаходзіліся."
+
+#~ msgid "Customization options"
+#~ msgstr "Наладкі параметраў"
+
+#~ msgid "Appearance"
+#~ msgstr "Знешні выгляд"
+
+#~ msgid "Assistive technologies"
+#~ msgstr "Дапаможныя тэхналогіі"
+
+#~ msgid "Language support"
+#~ msgstr "Моўная падтрымка"
+
+#~ msgid "Included software"
+#~ msgstr "Усталяваныя праграмы"
+
+#~ msgid "Firefox web browser"
+#~ msgstr "Вэб-браўзэр Firefox"
+
+#~ msgid "Supported software"
+#~ msgstr "Падтрымліваемыя праграмы"
+
+#~ msgid "Flash"
+#~ msgstr "Флэш"
+
+#~ msgid "Chromium"
+#~ msgstr "Chromium"
+
+#~ msgid "Any questions?"
+#~ msgstr "Паўсталі пытанні?"
+
+#~ msgid "Let’s talk Ubuntu"
+#~ msgstr "Давайце пагутарым аб Ubuntu"
+
+#~ msgid "I'm installing #Ubuntu!"
+#~ msgstr "Я ўсталёўваю #Ubuntu!"
+
+#~ msgid "Your own personal cloud"
+#~ msgstr "Ваша персанальнае воблака"
+
+#~ msgid "Take your music with you"
+#~ msgstr "Бярыце сваю музыку з сабою"
+
+#~ msgid ""
+#~ "Ubuntu comes with the amazing Rhythmbox music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
+#~ msgstr ""
+#~ "Ubuntu пастаўляецца з выдатным музычным плэерам Rhythmbox. З перадавымі "
+#~ "магчымасцямі прайгравання і доступам да музычнай крамы Ubuntu One, зараз "
+#~ "стала так проста дадаваць любімыя кампазіцыі ў плэйліст. Ён таксама "
+#~ "падтрымлівае працу з кампакт-дыскамі і партатыўнымі музычнымі плэерамі, "
+#~ "так што Вы зможаце атрымліваць асалоду ад музыкі ў любым месцы."
+
+#~ msgid "Rhythmbox Music Player"
+#~ msgstr "Музычны плэер Rhythmbox"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Музычная крама Ubuntu One"
+
+#~ msgid "Write and present for free"
+#~ msgstr "Стварайце прэзентацыі бясплатна"
+
+#~ msgid ""
+#~ "LibreOffice is a free office suite packed with everything you’ll need to "
+#~ "create impressive documents, spreadsheets, and presentations. LibreOffice "
+#~ "tries its best to work with other office software, and it uses the "
+#~ "OpenDocument standards for far-reaching compatibility."
+#~ msgstr ""
+#~ "LibreOffice - гэта бясплатны офісны пакет, які мае ўсё неабходнае для "
+#~ "стварэння якасных дакументаў, табліц і прэзентацый. LibreOffice робіць "
+#~ "усё магчымае для працы з іншым офісным праграмным забеспячэннем і "
+#~ "выкарыстоўвае стандарты OpenDocument для максімальнай сумяшчальнасці."
+
+#~ msgid "LibreOffice Writer"
+#~ msgstr "LibreOffice Writer"
+
+#~ msgid "LibreOffice Calc"
+#~ msgstr "LibreOffice Calc"
+
+#~ msgid "LibreOffice Impress"
+#~ msgstr "LibreOffice Impress"
+
+#~ msgid "Have fun with your photos"
+#~ msgstr "Атрымлівайце асалоду ад Вашых фотаздымкаў"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it’s easy to share them "
+#~ "and keep them safe. If you’re feeling creative, you can try lots of photo "
+#~ "apps from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Shotwell - гэта зручны мэнэджар фотаздымкаў. Падлучыце фотаапарат альбо "
+#~ "тэлефон, скапіруйце фатаграфіі ў бібліятэку для бяспечнага захоўвання і "
+#~ "хуткага доступу. Паспрабуйце таксама мноства прыкладанняў для рэдагавання "
+#~ "здымкаў у Праграмным цэнтры Ubuntu, калі Вы лічыце сябе творчай асобай."
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Мэнэджар здымкаў Shotwell"
+
+#~ msgid "GIMP Image Editor"
+#~ msgstr "Рэдактар графікі GIMP"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Відэа рэдактар Pitivi"
+
+#~ msgid "Stay connected"
+#~ msgstr "Будзьце на сувязі"
+
+#, fuzzy
+#~ msgid ""
+#~ "The messaging menu gives you an eagle-eye view of incoming messages from "
+#~ "all applications and social networks. So you can see straight away when "
+#~ "there’s something new to read, regardless of how it arrived."
+#~ msgstr ""
+#~ "Індыкатар паведамленняў Ubuntu імгненна папярэдзіць Вас аб прыходзе новых "
+#~ "паведамленняў у любой праграме і сацыяльнай сетцы ."
+
+#~ msgid "Supported services"
+#~ msgstr "Падтрымліваемыя службы"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Identi.ca"
+#~ msgstr "Identi.ca"
+
+#~ msgid "Find even more software"
+#~ msgstr "Дадатковыя праграмы"
+
+#, fuzzy
+#~ msgid ""
+#~ "Fast and full of new features, the latest version of Ubuntu makes "
+#~ "computing easier than ever. Here are just a few cool new things to look "
+#~ "out for…"
+#~ msgstr ""
+#~ "Хуткая і шматфункцыянальная Ubuntu ператворыць працу на кампутары ў "
+#~ "задавальненне. З новай версіяй інтэрфейсу Unity працаваць становіцца яшчэ "
+#~ "прасцей. Вось некалькі выдатных новых магчымасцяў, з якім варта "
+#~ "азнаёміцца."
+
+#~ msgid "Browse the web"
+#~ msgstr "Прагляд вэб-старонак"
+
+#~ msgid ""
+#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
+#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
+#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
+#~ "Ubuntu Software Center."
+#~ msgstr ""
+#~ "Ubuntu пастаўляецца з хуткім і бяспечным браўзэрам Mozilla Firefox. Ён "
+#~ "лёгкі ў выкарыстанні і падтрымліваецца некамерцыйным фондам, якому вэб "
+#~ "даспадобы . Калі Вам не падабаецца Firefox, Вы знойдзеце іншыя браўзэры, "
+#~ "выкарыстоўваючы Праграмны цэнтр Ubuntu."
+
+#~ msgid ""
+#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
+#~ "account gives you 5GB of cloud storage, so you can store and sync your "
+#~ "files and photos across devices and access them wherever you are in the "
+#~ "world. Easily share them with friends, family and colleagues. Take a "
+#~ "photo on your mobile phone and immediately see it on your desktop, or add "
+#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
+#~ "for mobile to enjoy your music on the move."
+#~ msgstr ""
+#~ "Служба <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
+#~ "бясплатна дае ўдзельнікам 5 ГБ для захоўвання, сінхранізацыі файлаў і "
+#~ "фотаздымкаў. Падзяліцеся імі з сябрамі, сям'ёй і калегамі. Рабіце здымкі "
+#~ "з вашага мабільнага тэлефона і адразу ж праглядайце вынік на кампутары, "
+#~ "ці падключыце паслугу <a href=\"https://one.ubuntu.com/services/music/"
+#~ "\">Music Streaming</a> для мабільнага тэлефона і цешцеся музыкай у дарозе."
+
+#~ msgid ""
+#~ "The Ubuntu Software Center has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is easy to download new stuff and write "
+#~ "reviews to share your experiences."
+#~ msgstr ""
+#~ "Праграмны цэнтр Ubuntu змяшчае тысячы новых прыкладанняў. Карыстайцеся "
+#~ "пошукам або праглядзіце праграмы па катэгорыях, такім як гульні, навука "
+#~ "ці адукацыя. Вы можаце з лёгкасцю загрузіць новыя прыкладанні і напісаць "
+#~ "водгукі, каб падзяліцца сваімі ўражаннямі."
+
+#~ msgid "Welcome to Ubuntu 12.04 LTS"
+#~ msgstr "Сардэчна запрашаем у Ubuntu 12.04 LTS"

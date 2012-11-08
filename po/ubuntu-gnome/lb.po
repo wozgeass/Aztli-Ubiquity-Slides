@@ -1,0 +1,98 @@
+# Luxembourgish translation for ubiquity-slideshow-ubuntu-gnome
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu-gnome package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2011-11-15 15:53+0000\n"
+"Last-Translator: Edson <soued0311@hotmail.com>\n"
+"Language-Team: Luxembourgish <lb@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
+#: slideshows/ubuntu-gnome/slides/01_overview.html:1
+#: slideshows/ubuntu-gnome/slides/02_everything.html:1
+#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
+#: slideshows/ubuntu-gnome/slides/04_web.html:1
+#: slideshows/ubuntu-gnome/slides/05_documents.html:1
+#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
+msgid "Ubuntu GNOME 12.10"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
+msgid ""
+"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
+"all your Ubuntu questions. There’s a good chance your question will have "
+"been answered already and, if not, you’ll find thousands of volunteers eager "
+"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
+"support\">ubuntu.com/support</a>."
+msgstr ""
+
+#~ msgid "Appearance"
+#~ msgstr "Ausgesinn"
+
+#~ msgid "Assistive technologies"
+#~ msgstr "Accessibilitéit"
+
+#~ msgid "Language support"
+#~ msgstr "Sproochënnerstëtzung"
+
+#~ msgid "Included software"
+#~ msgstr "Integréiert Applikatiounen"
+
+#~ msgid "Firefox web browser"
+#~ msgstr "Firefox Browser"
+
+#~ msgid "Supported software"
+#~ msgstr "Ënnerstëtzt Applikatiounen"
+
+#~ msgid "Flash"
+#~ msgstr "Flash"
+
+#~ msgid "Chromium"
+#~ msgstr "Chromium"
+
+#~ msgid "Take your music with you"
+#~ msgstr "Huelt Är Musik mat"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Ubuntu One Musekbuttek"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Shotwell Fotomanager"
+
+#~ msgid "GIMP Image Editor"
+#~ msgstr "GIMP Bildbeaarbechter"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Pitivi Videobeaarbechter"
+
+#~ msgid "Supported services"
+#~ msgstr "Ënnerstëtzt Servicer"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Identi.ca"
+#~ msgstr "Identi.ca"
+
+#~ msgid "Find even more software"
+#~ msgstr "Fannt nach méi Applikatiounen"
+
+#~ msgid "Browse the web"
+#~ msgstr "Am Internet surfen"

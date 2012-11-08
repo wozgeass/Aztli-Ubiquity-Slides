@@ -1,0 +1,120 @@
+# Faroese translation for ubiquity-slideshow-ubuntu-gnome
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu-gnome package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-01-09 14:50+0000\n"
+"Last-Translator: Magnus Olsen <Unknown>\n"
+"Language-Team: Faroese <fo@li.org>\n"
+"Language: fo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:57+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
+#: slideshows/ubuntu-gnome/slides/01_overview.html:1
+#: slideshows/ubuntu-gnome/slides/02_everything.html:1
+#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
+#: slideshows/ubuntu-gnome/slides/04_web.html:1
+#: slideshows/ubuntu-gnome/slides/05_documents.html:1
+#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
+msgid "Ubuntu GNOME 12.10"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
+msgid ""
+"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
+"all your Ubuntu questions. There’s a good chance your question will have "
+"been answered already and, if not, you’ll find thousands of volunteers eager "
+"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
+"support\">ubuntu.com/support</a>."
+msgstr ""
+
+#~ msgid ""
+#~ "At the heart of Ubuntu’s philosophy is a belief that computing is for "
+#~ "everyone. With advanced accessibility tools and options like your "
+#~ "preferred color scheme, text size, and language, Ubuntu is for anyone. "
+#~ "Whoever you are, and wherever you are."
+#~ msgstr ""
+#~ "Í hjartanum hjá Ubuntu hugsanarháttinum er ein trúgv , at teldur eru fyri "
+#~ "øll. Við framkomnum atkomiligum amboðum og møguleikum, so sum tín ynskta "
+#~ "litsamanseting, stødd á stavum og tungumál. Ubuntu er fyri øll! Tað sama "
+#~ "hvør tú ert, tað sama hvar tú ert."
+
+#~ msgid "Appearance"
+#~ msgstr "Útsjónd"
+
+#~ msgid "Language support"
+#~ msgstr "Mál stuðul"
+
+#~ msgid "Included software"
+#~ msgstr "Ritbúnaðurin fevnir um"
+
+#~ msgid "Supported software"
+#~ msgstr "Stuðlaður ritbúnaður"
+
+#~ msgid "Flash"
+#~ msgstr "Flash"
+
+#~ msgid "Chromium"
+#~ msgstr "Chromium"
+
+#~ msgid "Any questions?"
+#~ msgstr "Nakrar spurningar?"
+
+#~ msgid "Take your music with you"
+#~ msgstr "Tak tín tónleik við tær"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Ubuntu One Tónleika Goymsla"
+
+#~ msgid "Have fun with your photos"
+#~ msgstr "Stuttleika tær við tínum myndum"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Shotwell mynda virkisleiðari"
+
+#~ msgid "GIMP Image Editor"
+#~ msgstr "GIMP mynda ritil"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Pitivi sjónbanda ritil"
+
+#~ msgid "Stay connected"
+#~ msgstr "Halt sambinding"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Identi.ca"
+#~ msgstr "Identi.ca"
+
+#~ msgid "Find even more software"
+#~ msgstr "Finn uppaftur meir ritbúnaðir"
+
+#~ msgid "Browse the web"
+#~ msgstr "Kaga á alnótini"
+
+#~ msgid ""
+#~ "The Ubuntu Software Center has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is easy to download new stuff and write "
+#~ "reviews to share your experiences."
+#~ msgstr ""
+#~ "Ubuntu Ritbúnaðar Miðdepilin inniheldur fleiri túsund ymiskar ritbúnaðar, "
+#~ "ið eru klárir at heinta niður á telduna. Tað er skjótt og ómakaleyst. "
+#~ "Leita eftir tí, sum tú manglar, so sum spøl, ritbúnaður til vinnuna, "
+#~ "ritbúnaður til frøði og skúlabrúk."
