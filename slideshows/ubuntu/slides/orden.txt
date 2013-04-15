@@ -1,0 +1,13 @@
+Orden de las imagenes para los slides
+
+1. Bienvenida
+2. Gnome
+3. Novedades
+4. Entretenimiento
+5. Ides
+6. Librerias
+7. Lenguajes
+8. Software
+9. Soporte
+10. Hardware
+
