@@ -141,7 +141,7 @@ soup_session.set_property('ssl-use-system-ca-file', True)
 
 
 slideshow_window = Gtk.Window()
-slideshow_window.set_title("Ubiquity Slideshow with Webkit")
+slideshow_window.set_title("Aztli 5.0")
 slideshow_window.connect('destroy',Gtk.main_quit)
 
 slideshow_window.set_resizable(False)
