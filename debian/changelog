@@ -1,3 +1,12 @@
+ubiquity-slideshow-aztli (66) quantal; urgency=low
+    [Adrian Perez]
+    * Hicimos nuestros propios Slides.
+    [Maricela Miranda]
+    * Termino la parte Html
+    [Tania Marin]
+    * Aporto con los diseños y algunas modificaciones
+ -- Adrian Perez <lelouchy@gmail.com>  Mier, 17 Abril 2013 00:34:58 -0400
+
 ubiquity-slideshow-ubuntu (65) quantal; urgency=low
 
   [ Dylan McCall ]
