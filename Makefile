@@ -10,7 +10,7 @@ build_init:
 	mkdir -p $(BUILD)
 
 build_aztli: build_init
-	cp -rL $(SOURCESLIDES)/ubuntu $(BUILD)
+	cp -rL $(SOURCESLIDES)/aztli $(BUILD)
 
 #build_kubuntu: build_init
 #	cp -rL $(SOURCESLIDES)/kubuntu $(BUILD)
